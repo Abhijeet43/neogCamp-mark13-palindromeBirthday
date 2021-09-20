@@ -1,2 +1,2 @@
 # neogCamp-mark13-palindromeBirthday
-Created with CodeSandbox
+An app that can show whether your birthday is a palindrom number.
