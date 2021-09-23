@@ -72,3 +72,12 @@ input:focus {
 #output {
   text-align: center;
 }
+
+.header-description{
+  margin: 1rem;
+  font-size: medium;
+}
+
+main{
+  margin:1rem;
+}
