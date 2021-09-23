@@ -23,6 +23,10 @@ body {
   align-items: center;
 }
 
+header{
+  text-align: center;
+}
+
 .header-title {
   margin: 1rem;
   padding: 1rem;
